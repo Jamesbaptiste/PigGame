@@ -29,7 +29,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Fun game where each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold": If the player rolls a 1, they score nothing and it becomes the next player's turn. If the player rolls any other number, it is added to their turn total and the player's turn continues. Be the first to reach 100! :100:
+I made this project to practice DOM manipulation as well as bring a fun and interactive game to it's users. 
 
 
 ### Built With
@@ -40,12 +40,12 @@ Fun game where each turn, a player repeatedly rolls a die until either a 1 is ro
 
 ### How To Use
 
-Begin by guessing any number between 1-20, then check if your guess is coreect. The game will let you know whether you've guessed too high or too low and allow you to continue guessing until you guess the correct answer. Good luck! :smile:
+Fun two-player game where each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold": If the player rolls a 1, they score nothing and it becomes the next player's turn. If the player rolls any other number, it is added to their turn total and the player's turn continues. Be the first to reach 100! :100:
 
 <!-- LIVE SITE -->
 ## Live Site
 
-Project Link: [https://secretnumberguessgame.netlify.app/](https://secretnumberguessgame.netlify.app/)
+Project Link: [https://the-pink-pig-game.netlify.app/](The Pig Game)
 
 
 <!-- CONTACT -->
