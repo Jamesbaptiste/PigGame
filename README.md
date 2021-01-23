@@ -45,8 +45,7 @@ Fun two-player game where each turn, a player repeatedly rolls a die until eithe
 <!-- LIVE SITE -->
 ## Live Site
 
-Project Link: [https://the-pink-pig-game.netlify.app/](The Pig Game)
-
+Project Link: [The Pig Game](https://the-pink-pig-game.netlify.app/)
 
 <!-- CONTACT -->
 ## Contact
