@@ -1,2 +1,75 @@
-# PigGame
-# PigGame
+# GuessMyNumberGame
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+    <img src="https://jamesbaptiste.github.io/Portfolio-site%20copy/images/guessGame.gif" alt="Logo" width="700" height="500">
+  </a>
+<h1 align="center">Guess My Number!</h1>
+
+<!-- TABLE OF CONTENTS 
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+-->
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Fun game where each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold": If the player rolls a 1, they score nothing and it becomes the next player's turn. If the player rolls any other number, it is added to their turn total and the player's turn continues. Be the first to reach 100! :100:
+
+
+### Built With
+
+* JavaScript
+* HTML
+* CSS
+
+### How To Use
+
+Begin by guessing any number between 1-20, then check if your guess is coreect. The game will let you know whether you've guessed too high or too low and allow you to continue guessing until you guess the correct answer. Good luck! :smile:
+
+<!-- LIVE SITE -->
+## Live Site
+
+Project Link: [https://secretnumberguessgame.netlify.app/](https://secretnumberguessgame.netlify.app/)
+
+
+<!-- CONTACT -->
+## Contact
+
+:email: [Email](Jamesbaptiste@yahoo.com)
+
+:computer: [Portfolio](https://jamesbaptiste.github.io/)
+
+:link: [Linkedin](https://linkedin.com/in/james-baptiste-7005097b)
+
+
+
+<!-- extras
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
+* [Loaders.css](https://connoratherton.com/loaders)
+* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+* [Sticky Kit](http://leafo.net/sticky-kit)
+* [JVectorMap](http://jvectormap.com)
+* [Font Awesome](https://fontawesome.com)
+-->
+
